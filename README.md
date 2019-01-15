@@ -12,3 +12,6 @@
 
 及びブラウザを立ち上げ
 http://127.0.0.1:8000/ を開く
+
+# 動画
+https://youtu.be/a3iCbsOiatY
